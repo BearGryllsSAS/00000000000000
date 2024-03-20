@@ -16,7 +16,7 @@
 ![architecture](./documents/00、preview-pic/architecture.jpg)
 
 ## 项目结构说明
-> `zero-one-healthy-check`  
+>  网络聊天室  
 >
 > > `.gitignore` -- 忽略提交配置
 > >
