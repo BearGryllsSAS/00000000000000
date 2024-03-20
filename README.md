@@ -11,7 +11,7 @@
 
 ## 系统架构图
 
-项目主体骨架基于非阻塞`Socket`+`Epoll`网络监听体系，使用线程池技术处理客户端与服务器之间的请求，采用`MySQL`数据库连接池封装多个已经初始化的'MySQL'对象进行数据持久化管理，采用`Vue3`生态体系与`Element Puls UI`框架完成前端制作，同时项目提供`C++`微服务开发解决方案与集成、使用`Jenkins`实现`CD/CI`。
+项目主体骨架基于非阻塞`Socket`+`Epoll`网络监听体系，使用线程池处理客户端与服务器之间的请求，采用`MySQL`数据库连接池封装多个已经初始化的'MySQL'对象进行数据持久化管理，采用`Vue3`生态体系与`Element Puls UI`框架完成前端制作，同时项目提供`C++`微服务开发解决方案与集成、使用`Jenkins`实现`CD/CI`。
 
 ![architecture](./documents/00、preview-pic/architecture.jpg)
 
