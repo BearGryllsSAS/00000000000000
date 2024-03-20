@@ -37,8 +37,8 @@
 | 技术              | 说明               | 版本                                                   | 备注                                                         |
 | ----------------- | ------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
 | `MySQL`           | 关系型数据库管理系统            | `1.3.0`                                                | https://github.com/oatpp/oatpp                               |
-| `MySQL Connector` | `MySQL`连接驱动库  | 8.0.27                                                 | https://dev.mysql.com/downloads/connector/cpp/<br>https://dev.mysql.com/doc/connector-cpp/1.1/en/connector-cpp-apps.html |
-| `JWT`             | `JSON` Web Token   | [v1.4](https://github.com/arun11299/cpp-jwt/tree/v1.4) | https://opensourcelibs.com/lib/cpp-jwt                       |
+| `CMake` | 跨平台编译工具  | 8.0.27                                                 | https://dev.mysql.com/downloads/connector/cpp/<br>https://dev.mysql.com/doc/connector-cpp/1.1/en/connector-cpp-apps.html |
+| `Git`             | 分布式版本控制系统   | [v1.4](https://github.com/arun11299/cpp-jwt/tree/v1.4) | https://opensourcelibs.com/lib/cpp-jwt                       |
 | `OpenSSL`         | 开源安全套接层协议 | `1.1.1L`                                               | https://www.openssl.org/<br>https://www.xolphin.com/support/OpenSSL/OpenSSL_-_Installation_under_Windows |
 
 ## 环境要求
