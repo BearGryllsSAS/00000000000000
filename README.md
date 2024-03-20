@@ -19,14 +19,16 @@
 >  网络聊天室  
 >
 > > `documents` -- 环境搭建、编码规范、项目需求等文档资源
-> >`server-cpp` -- `C++`服务器项目主体
 > > 
+> > `server-cpp` -- `C++`服务器项目主体
 > >
 > > `.gitignore` -- 忽略提交配置
 > >
-> > `README.md` -- 项目自述文件
-> >
-> > `healthy-frontend` -- 前端项目主体
+> > `LICESNE` -- 'Apache'许可证
+> > 
+> > `README-CN.md` -- 项目自述文件-中文版
+> > 
+> > `README-EN.md` -- 项目自述文件-英文版
 
 ## 软件架构
 
