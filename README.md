@@ -34,28 +34,12 @@
 
 ### 技术栈
 
-#### 后端核心技术栈
-
 | 技术              | 说明               | 版本                                                   | 备注                                                         |
 | ----------------- | ------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
 | `oat++`           | Web框架            | `1.3.0`                                                | https://github.com/oatpp/oatpp                               |
 | `MySQL Connector` | `MySQL`连接驱动库  | 8.0.27                                                 | https://dev.mysql.com/downloads/connector/cpp/<br>https://dev.mysql.com/doc/connector-cpp/1.1/en/connector-cpp-apps.html |
 | `JWT`             | `JSON` Web Token   | [v1.4](https://github.com/arun11299/cpp-jwt/tree/v1.4) | https://opensourcelibs.com/lib/cpp-jwt                       |
 | `OpenSSL`         | 开源安全套接层协议 | `1.1.1L`                                               | https://www.openssl.org/<br>https://www.xolphin.com/support/OpenSSL/OpenSSL_-_Installation_under_Windows |
-
-#### 后端扩展技术栈
-
-| 技术       | 说明              | 版本     | 备注                                               |
-| ---------- | ----------------- | -------- | -------------------------------------------------- |
-| `xlnt`     | excel报表         | 1.5.0    | https://github.com/tfussell/xlnt                   |
-| `fastdfs`  | 文件存储客户端    | latest   | https://gitee.com/fastdfs100                       |
-| `yaml-cpp` | 解析`yaml`数据    | 0.7.0    | https://github.com/jbeder/yaml-cpp                 |
-| `nacos`    | `nacos`客户端     | `v1.1.0` | https://github.com/nacos-group/nacos-sdk-cpp       |
-| `redis++`  | `redis`连接客户端 | 1.3.2    | https://github.com/sewenew/redis-plus-plus         |
-| `rocketmq` | `rokcetmq`客户端  | 2.1.0    | https://github.com/apache/rocketmq-client-cpp      |
-| `mongo`    | `mongodb`客户端   | 3.6.5    | https://www.mongodb.com/docs/drivers/cxx/          |
-| `libharu`  | `pdf`库           | 2.4.3    | https://github.com/libharu/libharu/tree/v2.4.3     |
-| `zxing`    | 用于绘制各种码    | 2.1.0    | https://github.com/zxing-cpp/zxing-cpp/tree/v2.1.0 |
 
 ## 环境要求
 
