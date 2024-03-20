@@ -1,9 +1,9 @@
 # 网络聊天室
 
-系统相关概念参考：
+相关概念参考：
 
-- https://baike.baidu.com/item/%E4%BD%93%E6%A3%80%E7%B3%BB%E7%BB%9F/1805213
-- https://www.sohu.com/a/562837673_121262714
+- https://zh.m.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E8%81%8A%E5%A4%A9%E5%AE%A4
+- https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E8%81%8A%E5%A4%A9%E5%AE%A4/2324705?_swebfr=220011
 
 ## 项目简介
 
