@@ -2,8 +2,8 @@
 
 相关概念参考：
 
-- [维基百科-网络聊天室](https://zh.m.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E8%81%8A%E5%A4%A9%E5%AE%A4 "鼠标放上去会显示这个文字(要有空格)")
-- [百度百科-网络聊天室](https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E8%81%8A%E5%A4%A9%E5%AE%A4/2324705?_swebfr=220011 "鼠标放上去会显示这个文字(要有空格)")
+- [维基百科-网络聊天室](https://zh.m.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E8%81%8A%E5%A4%A9%E5%AE%A4 "点击跳转维基百科页面")
+- [百度百科-网络聊天室](https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E8%81%8A%E5%A4%A9%E5%AE%A4/2324705?_swebfr=220011 "点击跳转百度百科页面")
 
 ## 项目简介
 
