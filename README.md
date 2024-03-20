@@ -57,15 +57,6 @@
 | `libharu`  | `pdf`库           | 2.4.3    | https://github.com/libharu/libharu/tree/v2.4.3     |
 | `zxing`    | 用于绘制各种码    | 2.1.0    | https://github.com/zxing-cpp/zxing-cpp/tree/v2.1.0 |
 
-#### 测试前端技术栈
-
-| 技术         | 说明       | 版本  | 备注                            |
-| ------------ | ---------- | ----- | ------------------------------- |
-| `jQuery`     | Ajax框架   | 3.6.0 | https://jquery.com/             |
-| `HTML5`      | 文本页面   | 5     | https://www.w3schools.com/html/ |
-| `CSS3`       | 页面样式表 | 3     | https://www.w3schools.com/css/  |
-| `JavaScript` | 页面小脚本 | `ES6` | https://www.w3schools.com/js/   |
-
 ## 环境要求
 
 ### 开发工具
