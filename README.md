@@ -24,7 +24,7 @@
 > >
 > > `.gitignore` -- 忽略提交配置
 > >
-> > `LICESNE` -- 'Apache'许可证
+> > `LICENSE` -- `Apache`许可证
 > > 
 > > `README-CN.md` -- 项目自述文件-中文版
 > > 
